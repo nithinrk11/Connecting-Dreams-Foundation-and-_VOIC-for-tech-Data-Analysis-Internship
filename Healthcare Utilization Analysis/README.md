@@ -45,14 +45,6 @@ Key analyses:
 
 ### Healthcare Utilization and Gender Analysis
 
-<div style="display: flex; justify-content: space-between;">
-
-  <![image](https://github.com/user-attachments/assets/5b5d169e-8914-40bc-a583-88cb40a8572f) width="45%" style="margin-right: 5px;"/>
-
-  <![image](https://github.com/user-attachments/assets/10a06b3f-6048-4f93-81b1-61131fdfaf2b) width="45%" style="margin-left: 5px;"/>
-
-</div>
-
 - **Age vs. Doctor Visits**: Weak correlation (0.125), indicating age is not a strong predictor.
 - **Health Status**: Poorer health correlates with more visits.
 - **Chronic Conditions**: Surprisingly, patients without chronic conditions tend to visit more often.
