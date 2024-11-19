@@ -50,7 +50,6 @@ Key analyses:
 - **Chronic Conditions**: Surprisingly, patients without chronic conditions tend to visit more often.
 - **Gender Disparities**: Females have a higher average number of visits than males.
 
-Demo: [Colab Link](https://colab.research.google.com/drive/17aDnZe8y7o-B9jW7z3rnNApQLCwtEIu8?usp=sharing)
 
 ### Socioeconomic Status
 - Majority of patients are not reliant on insurance.
@@ -58,7 +57,7 @@ Demo: [Colab Link](https://colab.research.google.com/drive/17aDnZe8y7o-B9jW7z3rn
 - Weak negative correlation between income and doctor visits (-0.077).
 - Insurance appears to have a limited impact on the frequency of visits.
 
-Demo: [Colab Link](https://colab.research.google.com/drive/17aDnZe8y7o-B9jW7z3rnNApQLCwtEIu8?usp=sharing)
+Demo link: [Healthcare Utilization Analysis](https://colab.research.google.com/drive/17aDnZe8y7o-B9jW7z3rnNApQLCwtEIu8?usp=sharing)
 
 ## Conclusion
 - **Significant Factors**: Health status and illness levels strongly influence healthcare utilization.
