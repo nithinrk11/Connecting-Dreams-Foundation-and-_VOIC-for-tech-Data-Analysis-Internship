@@ -13,7 +13,8 @@
 style="width:2.34375in;height:0.21111in" />11/19/2024 **Annual**
 **Review** 1
 
-> <img src="./f04l35ju.png" style="width:3.01917in;height:3.57in" />**PROBLEM**
+> <![f04l35ju](https://github.com/user-attachments/assets/f5e634d1-ac43-459c-a9e4-dfe4436e1f06)
+ style="width:3.01917in;height:3.57in" />**PROBLEM**
 > **STATEMENT**
 >
 > Optimizing the Superstore dataset in its business operations by
@@ -21,7 +22,7 @@ style="width:2.34375in;height:0.21111in" />11/19/2024 **Annual**
 > categories, and customer segment performance to make data-driven
 > decisions for improving business efficiency and profitability.
 
-<img src="./eb5ugugc.png"
+<![eb5ugugc](https://github.com/user-attachments/assets/e14c51f6-b704-46a9-8c4e-12aa06eb74ea)
 style="width:2.34375in;height:0.21111in" />11/19/2024 **Annual**
 **Review** 2
 
