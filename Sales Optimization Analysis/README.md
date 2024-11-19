@@ -91,7 +91,7 @@ The dataset contains:
 ---
 
 ## Acknowledgements
-Gratitude to **Connecting Dreams Foundation** and **Vodafone _VOIS for tech** for providing the dataset and resources.
+My Sincere Gratitude to **Connecting Dreams Foundation** and **Vodafone _VOIS for tech** for providing the dataset and resources.
 
 ---
 
