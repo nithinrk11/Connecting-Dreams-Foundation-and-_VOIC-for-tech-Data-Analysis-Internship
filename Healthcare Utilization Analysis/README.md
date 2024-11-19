@@ -68,7 +68,7 @@ Demo: [Colab Link](https://colab.research.google.com/drive/17aDnZe8y7o-B9jW7z3rn
 These insights can help design targeted interventions to improve healthcare access and efficiency. Future work could explore additional variables or external factors.
 
 ## Acknowledgements
-Gratitude to **Connecting Dreams Foundation** and **Vodafone _VOIS for tech** for providing the dataset and resources.
+My Sincere Gratitude to **Connecting Dreams Foundation** and **Vodafone _VOIS for tech** for providing the dataset and resources.
 
 ---
 
