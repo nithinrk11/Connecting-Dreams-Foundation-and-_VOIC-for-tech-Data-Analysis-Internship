@@ -53,27 +53,28 @@ The dataset contains:
 ### 1. Sales and Profits by Region
 - **Top Regions**: Western region leads in both sales (31.6%) and profits (37.9%).
 - **Key Observation**: Central region, despite higher sales than Southern, earns less profit.
-- [Demo](https://colab.research.google.com/drive/16tOvk8HzVTC0zZhCWPnUcoweBADoMrxQ?usp=sharing)
+
 
 ### 2. Sales and Profits by Category
 - **Top Performing Category**: Technology leads with $836,154.03 in sales and $145,454.95 in profits.
 - **Observation**: Categories have similar sales percentages, but technology dominates in profits.
-- [Demo](https://colab.research.google.com/drive/16tOvk8HzVTC0zZhCWPnUcoweBADoMrxQ?usp=sharing)
+
 
 ### 3. Sales and Profits by Customer Segment
 - **Top Segment**: Consumer segment contributes 50.6% of sales and 46.8% of profits.
 - **Observation**: Corporate and Home Office segments follow but with significantly less contribution.
-- [Demo](https://colab.research.google.com/drive/16tOvk8HzVTC0zZhCWPnUcoweBADoMrxQ?usp=sharing)
+
 
 ### 4. Sales and Profits by States
 - **Top States**: California and New York perform best.
 - **Observation**: Texas has the least profit despite sales.
-- [Demo](https://colab.research.google.com/drive/16tOvk8HzVTC0zZhCWPnUcoweBADoMrxQ?usp=sharing)
+
 
 ### 5. Discount vs. Profit Correlation
 - **Observation**: Negative correlation between discounts and profits suggests careful discount strategies are needed.
 - **Profit Margin**: Overall profit margin is 12.47%.
-- [Demo](https://colab.research.google.com/drive/16tOvk8HzVTC0zZhCWPnUcoweBADoMrxQ?usp=sharing)
+
+### Demo link: [Sales Optimization Analysis](https://colab.research.google.com/drive/16tOvk8HzVTC0zZhCWPnUcoweBADoMrxQ?usp=sharing)
 
 ---
 
